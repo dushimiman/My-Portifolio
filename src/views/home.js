@@ -42,7 +42,7 @@ const Home = () => {
 
         <div class="section-title">
           <h2>About</h2>
-          <p>I'm full stack developer in  react j.s and  node j.s and i have experience of one years</p>
+          <p>I'm full stack developer in  react j.s and  node j.s and i have experience of two years</p>
         </div>
 
         <div class="row">
@@ -52,12 +52,12 @@ const Home = () => {
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>UI/UX Designer &amp; Web Developer.</h3>
             <p class="fst-italic">
-            Experienced UI/UX Designer with a 5+ year proven track record of creating, improving, and developing IT solutions. Highly skilled in Sketch and UX research. In a previous position at SheCanCode Company, achieved 10% early completion of projects with a client satisfaction rate of 92%.
+            Experienced UI/UX Designer with a 2+ year proven track record of creating, improving, and developing IT solutions. Highly skilled in Sketch and UX research. In a previous position at SheCanCode Company, achieved 10% early completion of projects with a client satisfaction rate of 92%.
             </p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>21 Nov 1995</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>21 Nov 1998</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>https://github.com/dushimiman</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+250780564438</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Kigali, Rwanda</span></li>
@@ -211,7 +211,7 @@ const Home = () => {
 to easily buy and sell all agricultural products.</li>
 <li>Demo: https://agricultureproject.netlify.app/product</li>
 <li>Projects: https://github.com/dushimiman</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+               
               </ul>
             </div>
             <div class="resume-item">
